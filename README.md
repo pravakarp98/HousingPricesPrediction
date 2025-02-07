@@ -1,2 +1,2 @@
 # HousingPricesPrediction
-HousingPricesPrediction is a machine learning project focused on predicting house prices based on various features.
+HousingPricesPrediction is a machine learning project focused on predicting house prices based on various features such as location, size, number of rooms, and other relevant factors. The repository includes data preprocessing, exploratory data analysis (EDA), feature engineering, and model training using regression algorithms. It aims to build an accurate predictive model using techniques like linear regression, decision trees, and ensemble methods. The project is useful for real estate price estimation and data-driven decision-making.
